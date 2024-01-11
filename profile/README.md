@@ -1,6 +1,6 @@
 # TropicalWave
 
-Welcome to TropicalWave, a Minecraft network running version 1.19 or higher. We have a lot to offer, from custom game modes to a great community.
+Welcome to TropicalWave, a Minecraft network running version 1.20 or higher. We have a lot to offer, from custom game modes to a great community.
 
 Our domains are:
 - tropicalwave.de
